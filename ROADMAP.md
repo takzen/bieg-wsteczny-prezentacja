@@ -113,7 +113,7 @@ Projekt "Bieg Wsteczny" ewoluował z laboratorium satyrycznego do narzędzia opa
 
 - [x] **Social Cards Generator**: Backendowe generowanie obrazków HUD PNG (Pillow) z podsumowaniem absurdu.
 - [x] **Eksport do X (Twitter)**: Przycisk "Rozpowszechniaj sygnał" z automatycznym szablonem posta.
-- [x] **Notyfikacje Telegram/Push**: Alerty o krytycznych absurdach (>90 score).
+- [ ] **Notyfikacje Telegram/Push**: Alerty o krytycznych absurdach (>90 score).
 
 ### 📊 Monitoring & Ops
 

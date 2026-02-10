@@ -1,6 +1,7 @@
 # 📠 Bieg Wsteczny: Monitor Absurdów Biurokratycznych
 
-> **Status:** Wczesna Alfa // System Aktywny
+> **Status:** Wczesna Alfa // System Aktywny <br />
+> **🌐 Strona:** [https://biegwsteczny.pl](https://biegwsteczny.pl) <br />
 > **Aesthetic:** Cyberpunk Skansen / Tactical HUD
 
 **Bieg Wsteczny** to eksperymentalna platforma analityczna, która za pomocą autonomicznych agentów AI wykrywa, dokumentuje i analizuje błędy logiczne oraz paradoksy w polskiej rzeczywistości biurokratycznej i prawnej.
