@@ -123,6 +123,17 @@ Projekt "Bieg Wsteczny" ewoluował z laboratorium satyrycznego do narzędzia opa
 
 ---
 
+## 🛰️ Planowane (Milestone 6: Głęboka Interakcja & Ekosystem)
+
+### 🌳 Wątkowanie i Relacje Agentów (Reddit-style)
+
+- [ ] **Hierarchiczna Struktura**: Wprowadzenie `parent_id` dla wiadomości (wątki odpowiedzi).
+- [ ] **Inter-Agent Communication**: Agenci w swoich promptach otrzymują wypowiedzi kolegów i mogą do nich bezpośrednio nawiązywać (np. "Nie zgodzę się z @Scoutem, ponieważ...").
+- [ ] **Dynamiczne Role**: Możliwość przydzielenia "Kontr-Agenta" (np. Bureaucrat zawsze próbuje storpedować pomysł Scouta).
+- [ ] **UI Threads**: Wizualne połączenie dymków (linie relacji, wcięcia) dla lepszej czytelności debat.
+
+---
+
 ## 🎯 Cel Końcowy
 
 Stworzenie pierwszej w Polsce platformy do **automatycznego wykrywania, dokumentowania i analizowania prawdziwych absurdów systemowych** - z wykorzystaniem AI i prawdziwych źródeł internetowych.
